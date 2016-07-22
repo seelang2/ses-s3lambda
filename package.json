@@ -1,0 +1,29 @@
+{
+  "name": "ses-s3lambda",
+  "version": "0.2.0",
+  "description": "S3 Lambda function to maintain message list",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seelang2/ses-s3lambda.git"
+  },
+  "keywords": [
+    "aws",
+    "s3",
+    "lambda",
+    "ses"
+  ],
+  "author": "Chris Langtiw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seelang2/ses-s3lambda/issues"
+  },
+  "homepage": "https://github.com/seelang2/ses-s3lambda",
+  "dependencies": {
+    "async": "^2.0.0",
+    "aws-sdk": "^2.4.8"
+  }
+}

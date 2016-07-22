@@ -1,0 +1,10 @@
+{
+	"last_checked": "timestamp",
+	"messages": [
+		{
+			"key": "keyname",
+			"created": "timestamp"
+		}
+	],
+	"new_messages": 0
+}
